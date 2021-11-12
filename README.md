@@ -2,7 +2,7 @@
 👀 I’m interested in Programming <br />
 🌱 I’m currently learning spring boot
 
-## <div align="center">💡 Stack</div>
+## <div align="center">✨ Tech Stack ✨</div>
 <div align="center">Techs that I've used at least once</div><br />
 
 <div align="center">
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
+
 
 
 <!---
