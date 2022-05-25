@@ -1,6 +1,6 @@
 ## Hi, I’m eunbin 👋
 👀 I’m interested in Programming <br />
-🌱 I’m currently learning spring boot
+🌱 I’m currently learning MSA
 
 ## <div align="center">✨ Tech Stack ✨</div>
 <div align="center">Techs that I've used at least once</div><br />
